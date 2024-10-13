@@ -1,0 +1,39 @@
+.simple {
+  display: flex;
+  background-color: gold;
+  border: 10px ridge pink;
+  padding: 5rem;
+  flex-dorection: column;
+
+}
+
+.simple h1{ margin: 0 auto;
+            width: 300px;
+            color: brown;
+
+
+}
+
+
+
+
+
+
+
+.locate p{ text-align: center;}
+
+p{ text-align: left;
+   font-weight: bold;
+   color: green;
+}
+
+
+li{ display: inline-block; 
+    text-align: center;
+
+
+
+
+}
+
+li.right{ float: right; }
