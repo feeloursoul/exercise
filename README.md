@@ -1,1 +1,1 @@
-https://github.com/feeloursoul/exercise/releases
+[これはただのホームページです。](https://github.com/feeloursoul/exercise/releases)
